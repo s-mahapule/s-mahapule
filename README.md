@@ -1,62 +1,57 @@
-## Hi there 👋
-# Hi, I'm Yuki 👋  
-**B.Tech Data Science ’27 | Aspiring ML & Analytics Engineer**
+## Hey, Shafia here 👋  
+Welcome to my corner of the digital world.
+
+I’m a **B.Tech Data Science student (2027)** who enjoys turning raw data into insights,
+models, and decisions that actually matter.
+
+> There are 10 types of people in the world:  
+> Those who understand binary, and those who ship projects.
 
 ---
 
-## 🚀 About Me
-I’m a data scientist-in-training obsessed with turning messy data into **impactful solutions** — not just charts.  
-Currently working on ML models, analytics pipelines, and clean code that *actually works*.
+### 🔗 Connect with Me
+[LinkedIn Badge] · [Gmail Badge] · [GitHub]
 
 ---
 
-## 🧠 Core Skills
-
-### 🚀 Languages
-Python • SQL
-
-### 📊 Data
-Pandas • NumPy • Scikit-Learn • XGBoost • Matplotlib • Seaborn
-
-### 🔧 Tools
-Git • Jupyter • VSCode • Streamlit
+## 💻 Domains I Work In
+- 📊 Data Science & Analytics  
+- 🤖 Machine Learning  
+- 🧠 Applied Problem Solving  
 
 ---
 
-## 💼 Featured Projects
+## 🛠️ Tech Stack
+**Languages**
+- Python, SQL  
 
-### ⭐ Fake Review Detection  
-ML pipeline — classification, EDA, feature engineering, model comparison.
-
-### 📈 Purchase Behavior Analysis  
-Insights from Amazon electronics data + visualization + interpretability.
-
-
----
-
-## 🔗 Connect With Me
-
-📩 yuki.email@example.com  
-🔗 linkedin.com/in/yuki-mahappule  
-📦 Portfolio / Resume link
+**Libraries & Tools**
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-learn, XGBoost  
+- Git, Jupyter, VS Code  
 
 ---
+
+## 🧠 Who Am I? 
+
+```python
+class WhoAmI:
+    name = "Shafia Mahapule"
+    role = "Data Science Student"
+    focus = "Building ML models & extracting insights"
+    
+    interests = [
+        "Machine Learning",
+        "Data Analysis",
+        "Anime",
+        "Late-night debugging sessions"
+    ]
+    
+    def current_goal():
+        return "Become industry-ready in Data Science"
+
 
 ## 📊 GitHub Stats
 
 ![Yuki’s GitHub Stats](https://github-stats.vercel.app/api?username=s-mahappule&show_icons=true)
-
-<!--
-**s-mahapule/s-mahapule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
