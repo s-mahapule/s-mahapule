@@ -31,14 +31,31 @@ models, and decisions that actually matter.
 ---
 
 ## 🛠️ Tech Stack
-**Languages**
-- C++, Python, SQL  
+### 🧑‍💻 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</p>
 
-**Libraries & Tools**
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Scikit-learn, XGBoost  
-- Git, Jupyter, VS Code  
+### 🛠️ Libraries & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" width="40" alt="Tableau"/>
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/microsoft-power-bi-8aa1an9fwajyvhbtwbp9ge.png/microsoft-power-bi-j2ar1geax9jerhy4ixyb9p.png?_a=DATAg1AAZAA0" width="40" alt="Power BI"/>
+</p>
+</p>
 
 ---
 
@@ -61,6 +78,3 @@ class WhoAmI:
         return "Become industry-ready in Data Science"
 ```
 
-## 📊Shafia’s GitHub Stats
-
-![Shafia’s GitHub Stats](https://github-stats.vercel.app/api?username=s-mahapule&show_icons=true)
