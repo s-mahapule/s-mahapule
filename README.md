@@ -10,7 +10,8 @@ models, and decisions that actually matter.
 ---
 
 ### 🔗 Connect with Me
-[[LinkedIn Badge](https://www.linkedin.com/in/shafia-mahapule-78b1a2299/)] · [Gmail Badge] · [GitHub]
+[[LinkedIn Badge](https://www.linkedin.com/in/shafia-mahapule-78b1a2299/)] · [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:youremail@gmail.com)
+ · [GitHub]
 
 ---
 
