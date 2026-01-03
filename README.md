@@ -4,13 +4,13 @@ Welcome to my corner of the digital world.
 I’m a **B.Tech Data Science student (2027)** who enjoys turning raw data into insights,
 models, and decisions that actually matter.
 
-> There are 10 types of people in the world:  
-> Those who understand binary, and those who ship projects.
+> 📊 Turning raw data into insights, models, and decisions.  
+> ⚡ Curious mind. Structured execution.
 
 ---
 
 ### 🔗 Connect with Me
-[LinkedIn Badge] · [Gmail Badge] · [GitHub]
+[[LinkedIn Badge](https://www.linkedin.com/in/shafia-mahapule-78b1a2299/)] · [Gmail Badge] · [GitHub]
 
 ---
 
