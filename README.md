@@ -10,8 +10,16 @@ models, and decisions that actually matter.
 ---
 
 ### 🔗 Connect with Me
-[[LinkedIn Badge](https://www.linkedin.com/in/shafia-mahapule-78b1a2299/)] · [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:youremail@gmail.com)
- · [GitHub]
+<p align="left">
+  <a href="https://www.linkedin.com/in/shafia-mahapule/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shafiamahapule@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+  </a>
+</p>
+
 
 ---
 
@@ -24,7 +32,7 @@ models, and decisions that actually matter.
 
 ## 🛠️ Tech Stack
 **Languages**
-- Python, SQL  
+- C++, Python, SQL  
 
 **Libraries & Tools**
 - Pandas, NumPy  
@@ -51,8 +59,8 @@ class WhoAmI:
     
     def current_goal():
         return "Become industry-ready in Data Science"
+```
 
+## 📊Shafia’s GitHub Stats
 
-## 📊 GitHub Stats
-
-![Yuki’s GitHub Stats](https://github-stats.vercel.app/api?username=s-mahappule&show_icons=true)
+![Shafia’s GitHub Stats](https://github-stats.vercel.app/api?username=s-mahapule&show_icons=true)
